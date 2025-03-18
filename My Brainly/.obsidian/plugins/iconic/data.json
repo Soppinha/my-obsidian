@@ -1,0 +1,227 @@
+{
+  "biggerIcons": "desktop",
+  "clickableIcons": "mobile",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": false,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "rgb",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": true,
+  "uncolorQuick": false,
+  "rememberDeletedItems": true,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {
+    "file-explorer": {
+      "icon": "lucide-folders"
+    }
+  },
+  "fileIcons": {
+    "Array/Iteração e Acesso a Elementos/Filter.md": {
+      "icon": "lucide-file-code-2",
+      "color": "#3e3b59"
+    },
+    "Array/Iteração e Acesso a Elementos/Map.md": {
+      "icon": "lucide-file-code-2",
+      "color": "#3e3b59"
+    },
+    "Difícil": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "962117a336602a26",
+        "3760afae50b1d124",
+        "3239692309bdbbd1"
+      ]
+    },
+    "Enem": {
+      "color": "#40ff00",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Fácil": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "962117a336602a26",
+        "3760afae50b1d124",
+        "3239692309bdbbd1"
+      ]
+    },
+    "Fácil/Avaliação dos alunos.md": {
+      "icon": "lucide-code-2",
+      "color": "#3e3b59"
+    },
+    "Fácil/Conversão de horas.md": {
+      "icon": "lucide-code-2",
+      "color": "#3e3b59"
+    },
+    "Fácil/Escada.md": {
+      "icon": "lucide-code-2",
+      "color": "#3e3b59"
+    },
+    "Fácil/Mais menos soma.md": {
+      "icon": "lucide-code-2",
+      "color": "#3e3b59"
+    },
+    "Fácil/Soma de matriz simples.md": {
+      "icon": "lucide-code-2",
+      "color": "#3e3b59"
+    },
+    "Fácil/Velas para bolos de aniversário.md": {
+      "icon": "lucide-code-2",
+      "color": "#3e3b59"
+    },
+    "Imagens": {
+      "icon": "lucide-image",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Médio": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "962117a336602a26",
+        "3760afae50b1d124",
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ],
+      "color": "#002beb"
+    },
+    "Programação/Autenticação": {
+      "icon": "lucide-chart-column-decreasing",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Autenticação/Como funciona.md": {
+      "icon": "lucide-file-lock"
+    },
+    "Programação/BASH": {
+      "icon": "cmdr-triggered-inline",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Framework back-end": {
+      "icon": "brackets-contain",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Framework back-end/Spring Framework": {
+      "icon": "lucide-frame",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Framework back-end/Spring Framework/Security.md": {
+      "icon": "lucide-file-lock-2"
+    },
+    "Programação/GIT": {
+      "icon": "lucide-github",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Linguagem": {
+      "icon": "lucide-languages",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Linguagem/C": {
+      "icon": "lucide-folders",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ],
+      "color": "#2ea4ff"
+    },
+    "Programação/Linguagem/C/Fundamentos": {
+      "icon": "lucide-code-xml",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Linguagem/C/Fundamentos/Entrada e saída": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Linguagem/C/Fundamentos/Entrada e saída/Input e Output em C.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Entrada e saída/Manipulação de caracteres e string.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Estrutura básica": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Linguagem/C/Fundamentos/Estrutura básica/Bibliotecas.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Estrutura básica/Comentário.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Estrutura básica/Main().md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Operadores": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Linguagem/C/Fundamentos/Operadores/Operadores aritméticos.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis": {
+      "icon": "lucide-folder-code",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ]
+    },
+    "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Constantes.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Declaração e inicialização de variáveis.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Modificadores.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Tipos primitivos.md": {
+      "icon": "lucide-file-code-2"
+    },
+    "Programação/Linguagem/Java": {
+      "icon": "lucide-folders",
+      "unsynced": [
+        "3239692309bdbbd1"
+      ],
+      "color": "#ff4747"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

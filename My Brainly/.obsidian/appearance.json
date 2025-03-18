@@ -1,0 +1,12 @@
+{
+  "accentColor": "#a8ffde",
+  "textFontFamily": "Gadugi",
+  "monospaceFontFamily": "Calibri",
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "cssTheme": "AnuPpuccin",
+  "showViewHeader": true,
+  "baseFontSize": 18,
+  "interfaceFontFamily": "Calibri",
+  "showRibbon": true
+}

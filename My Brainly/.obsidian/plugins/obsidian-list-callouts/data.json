@@ -1,0 +1,69 @@
+[
+  {
+    "color": "255, 214, 0",
+    "char": "&"
+  },
+  {
+    "color": "255, 145, 0",
+    "char": "?",
+    "icon": "lucide-circle-help"
+  },
+  {
+    "color": "255, 23, 68",
+    "char": "!",
+    "icon": "lucide-alert-triangle"
+  },
+  {
+    "color": "124, 77, 255",
+    "char": "~",
+    "icon": "lucide-message-circle"
+  },
+  {
+    "color": "0, 184, 212",
+    "char": "@"
+  },
+  {
+    "color": "0, 200, 83",
+    "char": "$"
+  },
+  {
+    "color": "158, 158, 158",
+    "char": "%"
+  },
+  {
+    "char": "ok",
+    "color": "30, 255, 0",
+    "icon": "lucide-check",
+    "custom": true
+  },
+  {
+    "char": "no",
+    "color": "255, 0, 0",
+    "icon": "lucide-x-circle",
+    "custom": true
+  },
+  {
+    "char": "n",
+    "color": "245, 78, 36",
+    "icon": "lucide-file-edit",
+    "custom": true
+  },
+  {
+    "char": "c",
+    "color": "43, 0, 255",
+    "icon": "lucide-laptop",
+    "custom": true
+  },
+  {
+    "char": "d",
+    "color": "255, 247, 0",
+    "custom": true,
+    "icon": "lucide-lightbulb"
+  },
+  {
+    "char": "s",
+    "color": "210, 112, 255",
+    "custom": true,
+    "icon": "lucide-search"
+  }
+]
