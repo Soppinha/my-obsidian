@@ -39,13 +39,15 @@
       "unsynced": [
         "962117a336602a26",
         "3760afae50b1d124",
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Enem": {
       "color": "#40ff00",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Fácil": {
@@ -53,7 +55,8 @@
       "unsynced": [
         "962117a336602a26",
         "3760afae50b1d124",
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Fácil/Avaliação dos alunos.md": {
@@ -83,7 +86,8 @@
     "Imagens": {
       "icon": "lucide-image",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Médio": {
@@ -91,41 +95,47 @@
       "unsynced": [
         "962117a336602a26",
         "3760afae50b1d124",
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação": {
       "icon": "lucide-folder-code",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ],
       "color": "#002beb"
     },
     "Programação/Autenticação": {
       "icon": "lucide-chart-column-decreasing",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Autenticação/Como funciona.md": {
       "icon": "lucide-file-lock"
     },
     "Programação/BASH": {
-      "icon": "cmdr-triggered-inline",
+      "icon": "lucide-terminal-square",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Framework back-end": {
-      "icon": "brackets-contain",
+      "icon": "lucide-frame",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Framework back-end/Spring Framework": {
       "icon": "lucide-frame",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Framework back-end/Spring Framework/Security.md": {
@@ -134,32 +144,37 @@
     "Programação/GIT": {
       "icon": "lucide-github",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Linguagem": {
       "icon": "lucide-languages",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Linguagem/C": {
       "icon": "lucide-folders",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ],
       "color": "#2ea4ff"
     },
     "Programação/Linguagem/C/Fundamentos": {
       "icon": "lucide-code-xml",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Linguagem/C/Fundamentos/Entrada e saída": {
       "icon": "lucide-folder-code",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Linguagem/C/Fundamentos/Entrada e saída/Input e Output em C.md": {
@@ -171,7 +186,8 @@
     "Programação/Linguagem/C/Fundamentos/Estrutura básica": {
       "icon": "lucide-folder-code",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Linguagem/C/Fundamentos/Estrutura básica/Bibliotecas.md": {
@@ -186,7 +202,8 @@
     "Programação/Linguagem/C/Fundamentos/Operadores": {
       "icon": "lucide-folder-code",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Linguagem/C/Fundamentos/Operadores/Operadores aritméticos.md": {
@@ -195,7 +212,8 @@
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis": {
       "icon": "lucide-folder-code",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ]
     },
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Constantes.md": {
@@ -210,10 +228,14 @@
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Tipos primitivos.md": {
       "icon": "lucide-file-code-2"
     },
+    "Programação/Linguagem/C/Ponteiro.md": {
+      "icon": "lucide-mouse-pointer-2"
+    },
     "Programação/Linguagem/Java": {
       "icon": "lucide-folders",
       "unsynced": [
-        "3239692309bdbbd1"
+        "3239692309bdbbd1",
+        "996d26021e30729a"
       ],
       "color": "#ff4747"
     }

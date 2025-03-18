@@ -68,10 +68,10 @@ int main() {
 - ? **O operador `&` (E comercial) é necessário para armazenar o valor lido na variável.**
 
 ## ❗**Cuidados com `scanf()`**
- - X  **Problema comum com `%c`**  
+ - no **Problema comum com `%c`**  
 	Quando `scanf("%c", &variavel)` é usado após `scanf("%d")` ou `scanf("%f")`, pode haver um problema com a leitura do ENTER.
 
-- ✓ **Solução:**  
+- ok **Solução:**  
 	Coloque um **espaço antes de `%c`**:
 ---
 
