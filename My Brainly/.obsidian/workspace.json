@@ -205,11 +205,14 @@
       "excel:Create Excel File": false,
       "iconic:Open rulebook": false,
       "cloze:Toggle all clozes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "8cf25e2ae3ad4c60",
   "lastOpenFiles": [
+    "Sem título",
+    "42",
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Modificadores.md",
     "Programação/Linguagem/C/Ponteiro.md",
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Constantes.md",
@@ -239,7 +242,6 @@
     "Enem/2010/Linguagens.md",
     "C/Fundamentos/Excel 2025-03-06 20.43.49.sheet.md",
     "Imagens/folder-code.svg",
-    "Icons",
     "C/Sem título.canvas",
     "C/Untitled mindmap.md",
     "2025-02-28.md",
@@ -248,7 +250,6 @@
     "Array/Iteração e Acesso a Elementos/Map.md",
     "Array/Iteração e Acesso a Elementos/Filter.md",
     "Array/Modificação de Arrays/Push.md",
-    "Fácil/Conversão de horas.md",
-    "Fácil/Avaliação dos alunos.md"
+    "Fácil/Conversão de horas.md"
   ]
 }
