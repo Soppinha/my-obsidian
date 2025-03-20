@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42/C00.md",
+                "file": "42/C01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C00"
+              "title": "C01"
             }
           }
         ]
@@ -215,9 +215,9 @@
   },
   "active": "fbfa7a4af2fdb9b3",
   "lastOpenFiles": [
+    "42/C00.md",
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Tipos primitivos.md",
     "42/C01.md",
-    "42/C00.md",
     "Sem título",
     "42",
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Modificadores.md",
