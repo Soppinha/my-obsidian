@@ -13,7 +13,6 @@
   "obsidian-enhancing-mindmap",
   "card-board",
   "todoist-sync-plugin",
-  "execute-code",
   "obsidian-list-callouts",
   "canvas-mindmap",
   "code-styler",
@@ -35,5 +34,6 @@
   "obsidian-latex-suite",
   "quick-latex",
   "link-favicon",
-  "obsidian-git"
+  "obsidian-git",
+  "code-emitter"
 ]
