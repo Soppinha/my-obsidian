@@ -11,10 +11,14 @@
             "id": "fbfa7a4af2fdb9b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "42/C01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "C01"
             }
           }
         ]
@@ -211,6 +215,7 @@
   },
   "active": "8cf25e2ae3ad4c60",
   "lastOpenFiles": [
+    "42/C01.md",
     "Sem título",
     "42",
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Modificadores.md",
@@ -237,7 +242,6 @@
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis",
     "Programação/C/Tipos primitivos.md",
     "Programação/Linguagem/C/Fundamentos/Estrutura básica",
-    "Programação",
     "Sem título.canvas",
     "Enem/2010/Linguagens.md",
     "C/Fundamentos/Excel 2025-03-06 20.43.49.sheet.md",
