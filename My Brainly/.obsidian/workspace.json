@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "42/C00.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -209,11 +209,13 @@
       "excel:Create Excel File": false,
       "iconic:Open rulebook": false,
       "cloze:Toggle all clozes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "fbfa7a4af2fdb9b3",
   "lastOpenFiles": [
+    "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Tipos primitivos.md",
     "42/C01.md",
     "42/C00.md",
     "Sem título",
@@ -226,7 +228,6 @@
     "Programação/Linguagem/C/Fundamentos/Operadores/Operadores relacionais.md",
     "Programação/Linguagem/C/Fundamentos/Operadores/Operadores aritméticos.md",
     "Programação/Linguagem/C/Fundamentos/Operadores",
-    "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Tipos primitivos.md",
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Declaração e inicialização de variáveis.md",
     "Programação/Linguagem/C/Fundamentos/Estrutura básica/Main().md",
     "Programação/Linguagem/C/Fundamentos/Estrutura básica/Comentário.md",
