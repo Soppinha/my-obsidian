@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42/C01.md",
+                "file": "42/Rush01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C01"
+              "title": "Rush01"
             }
           }
         ],
@@ -230,9 +230,9 @@
   },
   "active": "18fe699c6f5fbaaa",
   "lastOpenFiles": [
+    "42/C01.md",
     "42/C00.md",
     "42/Rush01.md",
-    "42/C01.md",
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Tipos primitivos.md",
     "Sem título",
     "42",
