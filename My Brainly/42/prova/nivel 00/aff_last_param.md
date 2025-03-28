@@ -39,7 +39,7 @@ void ft_putchar(char c)
 
 char ft_first_param(char *str)
 {
-	
+	x
 }
 
 int main(int argc,  **argv)
