@@ -4,12 +4,13 @@
 
 void aff_letter(void)
 {
-	write(1, "c\n", 1);
+	write(1, "c\n", 3);
 }
 
 int main(void)
 {
 	aff_letter();
+	return 0;
 }
 ```
 
