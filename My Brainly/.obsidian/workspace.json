@@ -224,13 +224,15 @@
       "excel:Create Excel File": false,
       "iconic:Open rulebook": false,
       "cloze:Toggle all clozes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "14350ca4a75ee12b",
   "lastOpenFiles": [
-    "42/C01.md",
+    "42/prova/nivel 00/aff_first_param.md",
     "42/prova/nivel 00/aff_lettler.md",
+    "42/C01.md",
     "42/prova/nivel 00",
     "42/prova",
     "42/Prova 03.md",
@@ -267,7 +269,6 @@
     "C/Sem título.canvas",
     "C/Untitled mindmap.md",
     "2025-02-28.md",
-    "Array/Modificação de Arrays/Pop.md",
-    "Shift.md"
+    "Array/Modificação de Arrays/Pop.md"
   ]
 }
