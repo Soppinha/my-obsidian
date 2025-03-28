@@ -37,7 +37,7 @@ void ft_putchar(char c)
 	write(1, &c,1);
 }
 
-char ft_first_param(char *str)
+void ft_first_param(char *str)
 {
 	int i;
 	i = 0;
@@ -45,8 +45,9 @@ char ft_first_param(char *str)
 	while(str[i] != '\0')
 	{
 		ft_putchar(str[i]);
+		i++;
 	}
-	pt_putchar('\n')
+	pt_putchar('\n');
 }
 
 int main(int argc,  **argv)
