@@ -224,8 +224,7 @@
       "excel:Create Excel File": false,
       "iconic:Open rulebook": false,
       "cloze:Toggle all clozes": false,
-      "obsidian-git:Open Git source control": false,
-      "card-board:CardBoard": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "14350ca4a75ee12b",
