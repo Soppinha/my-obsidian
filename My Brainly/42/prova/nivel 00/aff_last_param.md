@@ -47,14 +47,14 @@ void ft_last_param(char *str)
 		ft_putchar(str[i]);
 		i++;
 	}
-	pt_putchar('\n');
+	ft_putchar('\n');
 }
 
-int main(int argc,  **argv)
+int main(int argc,  char **argv)
 {
 	if(argc >= 2)
 	{
-		ft_last_param(argv[arrgc - 1]);
+		ft_last_param(argv[argc - 1]);
 	}
 	else
 	{
