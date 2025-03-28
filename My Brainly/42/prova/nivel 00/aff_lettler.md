@@ -7,7 +7,7 @@ void aff_letter(void)
 	write(1, "c", 1);
 }
 
-int main()
+int main(void)
 {
 	aff_letter();
 }
