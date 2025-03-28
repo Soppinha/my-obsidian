@@ -1,8 +1,15 @@
 ## Simples
 ```c
+#include <unistd.h>
+
 void aff_lettter(void)
 {
 	write(1, "c", 1);
+}
+
+int main()
+{
+	aff_letter();
 }
 ```
 
