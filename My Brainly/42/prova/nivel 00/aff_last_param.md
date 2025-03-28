@@ -32,12 +32,17 @@ int main(void)
 ```c
 #include <unistd.h>
 
-void ft_putchar(int argc,  **argv)
+void ft_putchar(char c)
+{
+	write(1, &c,1);
+}
+
+char ft_first_param(char *str)
 {
 	
 }
 
-int main(void)
+int main(int argc,  **argv)
 {
 	
 }
