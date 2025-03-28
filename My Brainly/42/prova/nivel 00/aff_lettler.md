@@ -1,8 +1,8 @@
 ## Simples
 ```c
-void aff_lettter()
+void aff_lettter(void)
 {
-	
+	write(1, "c", 1);
 }
 ```
 
