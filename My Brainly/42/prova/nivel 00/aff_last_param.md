@@ -30,7 +30,9 @@ int main(void)
 
 ## Difícil
 ```c
-void ft_putchar(char c)
+#include <unistd.h>
+
+void ft_putchar(int argc,  **argv)
 {
 	
 }
