@@ -2,7 +2,7 @@
 ```c
 #include <unistd.h>
 
-void aff_lettter(void)
+void aff_letter(void)
 {
 	write(1, "c", 1);
 }
