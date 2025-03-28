@@ -37,7 +37,7 @@ void ft_putchar(char c)
 	write(1, &c,1);
 }
 
-void ft_first_param(char *str)
+void ft_last_param(char *str)
 {
 	int i;
 	i = 0;
@@ -52,6 +52,15 @@ void ft_first_param(char *str)
 
 int main(int argc,  **argv)
 {
-	
+	if(argc >= 2)
+	{
+		ft_last_param(argv[arrgc - 1]);
+	}
+	else
+	{
+		ft_putchar('\n');
+	}
+
+	return 0;
 }
 ```
