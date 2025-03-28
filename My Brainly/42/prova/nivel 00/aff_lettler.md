@@ -4,7 +4,7 @@
 
 void aff_letter(void)
 {
-	write(1, "c", 1);
+	write(1, "c\n", 1);
 }
 
 int main(void)
@@ -23,7 +23,6 @@ void aff_lettter()
 
 
 ## Difícil
-
 ```c
 void aff_lettter()
 {
