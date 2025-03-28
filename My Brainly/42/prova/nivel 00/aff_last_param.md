@@ -44,9 +44,9 @@ char ft_first_param(char *str)
 
 	while(str[i] != '\0')
 	{
-		ft_putchar();
+		ft_putchar(str[i]);
 	}
-	pt_putchar()
+	pt_putchar('\n')
 }
 
 int main(int argc,  **argv)
