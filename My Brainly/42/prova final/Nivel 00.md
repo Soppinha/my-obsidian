@@ -46,5 +46,8 @@ int		main(int argc, char **argv)
 - Exer aff_first_param
 
 ```c
-
+void ft_fisrt_param(char **argv)
+{
+	
+}
 ```
