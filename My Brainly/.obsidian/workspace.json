@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372
+    "width": 372,
+    "collapsed": true
   },
   "right": {
     "id": "11d3e6af2a59c8fa",
@@ -215,11 +216,11 @@
   },
   "active": "14350ca4a75ee12b",
   "lastOpenFiles": [
-    "42/prova/nivel 00/aff_first_param.md",
+    "42/prova/nivel 00/aff_lettler.md",
     "42/prova final/Nivel 00.md",
+    "42/prova/nivel 00/aff_first_param.md",
     "42/prova final",
     "42/prova/nivel 00/aff_last_param.md",
-    "42/prova/nivel 00/aff_lettler.md",
     "42/C01.md",
     "42/prova/nivel 00",
     "42/prova",
