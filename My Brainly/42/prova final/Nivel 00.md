@@ -40,3 +40,11 @@ int		main(int argc, char **argv)
 	return (0);
 }
 ```
+
+
+---
+- Exer aff_first_param
+
+```c
+
+```
