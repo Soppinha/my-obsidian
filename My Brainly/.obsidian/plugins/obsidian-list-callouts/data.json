@@ -65,5 +65,11 @@
     "color": "210, 112, 255",
     "custom": true,
     "icon": "lucide-search"
+  },
+  {
+    "char": "Exer",
+    "color": "38, 161, 192",
+    "icon": "lucide-scroll",
+    "custom": true
   }
 ]
