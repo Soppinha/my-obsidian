@@ -88,6 +88,9 @@ char ft_last_param(char *str)
 	int i;
 
 	i = 0;
-	while(str[])
+	while(str[i] != '\0')
+	{
+		
+	}
 }
 ```
