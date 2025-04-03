@@ -120,3 +120,8 @@ int main(int argc, char **argv)
 - Exer maff_revalpha
 
 ---
+- Exer only_z
+
+
+---
+- Exer strlen_sh
