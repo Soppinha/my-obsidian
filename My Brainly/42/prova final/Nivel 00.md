@@ -85,6 +85,9 @@ int		main(int argc, char **argv)
 
 char ft_last_param(char *str)
 {
-	
+	int i;
+
+	i = 0;
+	while(str[])
 }
 ```
