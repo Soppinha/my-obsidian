@@ -48,6 +48,9 @@ int		main(int argc, char **argv)
 ```c
 void ft_fisrt_param(char **argv)
 {
-	
+	while(**argv)
+	{
+		
+	}
 }
 ```
