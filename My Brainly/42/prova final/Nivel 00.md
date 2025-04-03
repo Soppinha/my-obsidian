@@ -49,7 +49,7 @@ int		main(int argc, char **argv)
 ```c
 #include <unistd.h>
 
-void ft_fisrt_param(char *str)
+char ft_fisrt_param(char *str)
 {
 	int i;
 
@@ -78,4 +78,11 @@ int		main(int argc, char **argv)
 ```
 
 ---
-- Exer aff_
+- Exer aff_last_param
+
+
+```c
+#include <unistd.h>
+
+char ft_
+```
