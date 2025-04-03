@@ -1,6 +1,7 @@
 ### Ex 00
 
 - Exer aff_a
+
 ```c
 #include <unistd.h>
 
@@ -46,11 +47,35 @@ int		main(int argc, char **argv)
 - Exer aff_first_param
 
 ```c
-void ft_fisrt_param(char **argv)
+#include <unistd.h>
+
+void ft_fisrt_param(char *str)
 {
-	while(**argv)
+	int i;
+
+	i = 0;
+	while(str[i] != '\0')
 	{
-		
+		write(1, &str[i], 1);
+		i++;
 	}
+	write(1, '\n', 1);
+	return (*str);
+}
+
+int		main(int argc, char **argv)
+{
+	if (argc >= 2)
+	{
+		ft_first_param(argv[1]);
+	}
+	else
+	{
+		ft_putchar('\n');
+	}
+	return (0);
 }
 ```
+
+---
+- Exer aff_
