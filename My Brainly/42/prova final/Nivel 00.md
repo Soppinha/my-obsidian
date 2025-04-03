@@ -127,8 +127,6 @@ int main(void)
 	return (0);
 }
 ```
-
-
 ---
 - Exer maff_alpha
 
