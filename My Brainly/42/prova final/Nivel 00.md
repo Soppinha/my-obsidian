@@ -112,6 +112,10 @@ int main(int argc, char **argv)
 ---
 - Exer aff_z
 
+```c
+
+```
+
 
 ---
 - Exer maff_alpha
