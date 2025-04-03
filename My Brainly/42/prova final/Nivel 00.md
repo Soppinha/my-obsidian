@@ -113,7 +113,10 @@ int main(int argc, char **argv)
 - Exer aff_z
 
 ```c
-
+void ft_putchar(char c)
+{
+	
+}
 ```
 
 
