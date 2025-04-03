@@ -84,5 +84,8 @@ int		main(int argc, char **argv)
 ```c
 #include <unistd.h>
 
-char ft_
+char ft_last_param(char *str)
+{
+	
+}
 ```
