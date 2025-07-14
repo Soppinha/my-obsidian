@@ -11,10 +11,14 @@
             "id": "8611d948bd6b7f04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "My Brainly/42/Rush01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Rush01"
             }
           }
         ]
@@ -218,8 +222,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8611d948bd6b7f04",
+  "active": "8cf25e2ae3ad4c60",
   "lastOpenFiles": [
+    "My Brainly/42/Piscina",
     "42/prova/nivel 00/aff_lettler.md",
     "42/prova final/Nivel 00.md",
     "42/prova/nivel 00/aff_first_param.md",
@@ -258,7 +263,6 @@
     "Enem/2010/Linguagens.md",
     "C/Fundamentos/Excel 2025-03-06 20.43.49.sheet.md",
     "Imagens/folder-code.svg",
-    "C/Sem título.canvas",
-    "C/Untitled mindmap.md"
+    "C/Sem título.canvas"
   ]
 }
