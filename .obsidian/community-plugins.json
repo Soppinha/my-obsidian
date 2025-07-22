@@ -15,7 +15,6 @@
   "todoist-sync-plugin",
   "obsidian-list-callouts",
   "canvas-mindmap",
-  "code-styler",
   "excel",
   "note-toolbar",
   "obsidian-diagrams-net",
@@ -23,17 +22,16 @@
   "obsidian-math-plus",
   "iconic",
   "obsidian-icons-plugin",
-  "obsidian-file-color",
   "editing-toolbar",
   "dataview",
   "multi-column-markdown",
   "obsidian-icon-folder",
   "obsidian-link-embed",
   "slash-commander",
-  "cloze",
   "obsidian-latex-suite",
   "quick-latex",
   "link-favicon",
   "obsidian-git",
-  "code-emitter"
+  "code-emitter",
+  "various-complements"
 ]
