@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "20e8f9571b33b28d",
+        "id": "0576bc4834e5be54",
         "type": "tabs",
         "children": [
           {
-            "id": "8611d948bd6b7f04",
+            "id": "0c360e305b20396b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Brainly/42/Rush01.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rush01"
+              "title": "Nova aba"
             }
           }
         ]
@@ -152,8 +148,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -162,28 +158,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "5c99c306cba90f2e",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "f2c26a748ff0682d",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -195,9 +171,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "22934a29a2384a77",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -215,15 +201,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
+      "card-board:CardBoard": false,
       "excel:Create Excel File": false,
       "iconic:Open rulebook": false,
       "cloze:Toggle all clozes": false,
-      "obsidian-git:Open Git source control": false,
-      "card-board:CardBoard": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cf25e2ae3ad4c60",
+  "active": "0c360e305b20396b",
   "lastOpenFiles": [
+    "My Brainly/42/Rush01.md",
     "My Brainly/42/Piscina",
     "42/prova/nivel 00/aff_lettler.md",
     "42/prova final/Nivel 00.md",
@@ -255,7 +242,6 @@
     "Programação/Autenticação/Como funciona.md",
     "Programação/Framework back-end",
     "Programação/Linguagem",
-    "Programação/BASH",
     "Imagens/what_is_authentication_password_example.webp",
     "Programação/Framework back-end/Spring Framework/Security.md",
     "Programação/C/Tipos primitivos.md",
