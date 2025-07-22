@@ -11,10 +11,14 @@
             "id": "0c360e305b20396b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "My Brainly/42/Cadete/Libft/Sem título.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sem título"
             }
           }
         ]
@@ -208,8 +212,9 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "8cf25e2ae3ad4c60",
+  "active": "0c360e305b20396b",
   "lastOpenFiles": [
+    "My Brainly/42/Cadete/Libft/Sem título.md",
     "My Brainly/42/Cadete/Libft",
     "My Brainly/42/Cadete",
     "My Brainly/42/Piscina/Rush01.md",
@@ -242,7 +247,6 @@
     "Programação/Linguagem/C/Fundamentos/Estrutura básica/Bibliotecas.md",
     "Programação/Linguagem/C/Fundamentos/Entrada e saída",
     "Programação/Autenticação/Como funciona.md",
-    "Programação/Framework back-end",
     "Imagens/what_is_authentication_password_example.webp",
     "Programação/Framework back-end/Spring Framework/Security.md",
     "Programação/C/Tipos primitivos.md",
