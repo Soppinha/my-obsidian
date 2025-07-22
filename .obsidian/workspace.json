@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Brainly/42/Cadete/Libft/ft_memchr.c.md",
+                "file": "My Brainly/42/Cadete/Libft/ft_memcmp.c.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ft_memchr.c"
+              "title": "ft_memcmp.c"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372,
-    "collapsed": true
+    "width": 372
   },
   "right": {
     "id": "11d3e6af2a59c8fa",
@@ -231,8 +230,9 @@
   },
   "active": "18e8d14ad48b233f",
   "lastOpenFiles": [
-    "My Brainly/42/Cadete/Libft/ft_strncmp.c.md",
     "My Brainly/42/Cadete/Libft/ft_memchr.c.md",
+    "My Brainly/42/Cadete/Libft/ft_memcmp.c.md",
+    "My Brainly/42/Cadete/Libft/ft_strncmp.c.md",
     "My Brainly/42/Cadete/Libft/Libft.h.md",
     "My Brainly/Programação/Linguagem/C/Fundamentos/Operadores/Operadores aritméticos.md",
     "My Brainly/Programação/Linguagem/C/Fundamentos/Operadores/Operadores relacionais.md",
@@ -265,7 +265,6 @@
     "Programação/Linguagem/C/Fundamentos/Operadores",
     "Programação/Linguagem/C/Fundamentos/Tipos de dados e variáveis/Declaração e inicialização de variáveis.md",
     "Programação/Linguagem/C/Fundamentos/Estrutura básica/Main().md",
-    "Programação/Linguagem/C/Fundamentos/Estrutura básica/Comentário.md",
     "Programação/Linguagem/C/Fundamentos/Entrada e saída",
     "Imagens/what_is_authentication_password_example.webp",
     "Sem título.canvas",
