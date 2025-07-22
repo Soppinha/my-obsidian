@@ -8,8 +8,6 @@
 
 # include <stddef.h>
 
-  
-
 int ft_atoi(const char *str);
 
 int ft_isalpha(int c);
