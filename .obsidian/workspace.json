@@ -218,8 +218,7 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "excel:Create Excel File": false,
       "iconic:Open rulebook": false,
-      "obsidian-git:Open Git source control": false,
-      "card-board:CardBoard": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "153c926d2fadd857",
